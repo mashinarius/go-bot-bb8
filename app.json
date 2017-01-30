@@ -1,0 +1,12 @@
+{
+  "name": "Go Bot BB8",
+  "description": "Go Getting Started Example App",
+  "keywords": [
+    "bot",
+    "go"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/mashinarius/go-bot-bb8",
+  "website": "http://github.com/mashinarius/go-bot-bb8",
+  "repository": "http://github.com/mashinarius/go-bot-bb8"
+}
